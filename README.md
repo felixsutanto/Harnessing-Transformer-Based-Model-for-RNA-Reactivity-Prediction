@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # Harnessing Transformer-Based Model for RNA Reactivity Prediction
 
 This repository contains the training code for a thesis project on **RNA reactivity prediction** using **Transformer-based sequence models**. The work is **heavily inspired by and adapted from the 10th place solution** by **Shlomoron** for the **Stanford Ribonanza RNA Folding Competition** on Kaggle.
