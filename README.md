@@ -325,10 +325,3 @@ Suggested acknowledgement:
 
 > "This work is adapted from and strongly inspired by the 10th place solution by Shlomoron for the Stanford Ribonanza RNA Folding Competition, particularly in the use of Transformer-based sequence modeling, uncertainty-aware loss design, and multi-model training strategies."
 
----
-<span style="display:none">[^1]</span>
-
-<div align="center">⁂</div>
-
-[^1]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/3295059/2a95726e-1c3d-4e1d-acb3-b693366336b0/model-training.ipynb
-
